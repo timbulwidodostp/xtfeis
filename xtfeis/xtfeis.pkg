@@ -1,0 +1,8 @@
+D 'xtfeis': User-written ado to estimate linear Fixed-Effects model with Individual-specific Slopes (FEIS) Use xtfeis With STATA 19
+D
+F xtart.ado
+F xtart.sthlp
+F xtbsht.ado
+F xtbsht.sthlp
+F xtfeis.ado
+F xtfeis.sthlp
