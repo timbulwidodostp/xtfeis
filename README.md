@@ -1,6 +1,8 @@
 # xtfeis
 User-written ado to estimate linear Fixed-Effects model with Individual-specific Slopes (FEIS) Use xtfeis With STATA 19
 
+https://www.youtube.com/watch?v=qisiGZPnn2o
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
